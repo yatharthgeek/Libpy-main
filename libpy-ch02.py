@@ -58,3 +58,5 @@ print (str_1 + str_2 ) # When you are adding two or more strings these are calle
 
 # Make a Coffee shop and take name of people and their product as entry and then print it like eg. (Hello Mr.Tom , This is your Cold Coffee . Enjoy !! )
 
+# now lets learn how to change between strings and numbers 
+
